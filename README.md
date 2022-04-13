@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaiswalsapana
-- 👀 I’m interested in fullstack developer
--    I'm a frontend developer
+-  I’m interested in fullstack developer
+- 👀 I'm a frontend developer
 - 🌱 I’m currently learning backend technologies. 
-- 💞️ I’m looking to collaborate on oen source project
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me
 jaiswalsapna080@gmail.com
 
