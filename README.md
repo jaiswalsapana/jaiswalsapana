@@ -19,7 +19,7 @@
 ---
 <h5 align="left"> Watch my contribution graph get eaten by the snake 🐍 </h5>
 <p align="center">
-<img src="https://github.com/utkarshyadav11/utkarsh-yadav/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://github.com/jaiswalsapana/utkarsh-yadav/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </center>
 </p>
 
