@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Website development]**
+- 🔭 I’m currently working on **[Frontend Website development]**
 
 - 🌱 I’m currently learning **Backend technologies.**
 
