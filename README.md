@@ -12,6 +12,10 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 💬 Ask me about html,css, JavaScript, tailwindcss , React , Next 
+
+-  👨Web Developer at Humbee studio
+
 - 📫 How to reach me **jaiswalsapna080@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
